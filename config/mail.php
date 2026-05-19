@@ -19,7 +19,7 @@ return [
     /*
     |--------------------------------------------------------------------------
     | Mailer Configurations
-    |--------------------------------------------------------------------------
+    |--------------------------------------------------------------------------D
     |
     | Here you may configure all of the mailers used by your application plus
     | their respective settings. Several examples have been configured for
@@ -114,5 +114,6 @@ return [
         'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
         'name' => env('MAIL_FROM_NAME', env('APP_NAME', 'Laravel')),
     ],
-
+ // update tugas kedua
 ];
+
